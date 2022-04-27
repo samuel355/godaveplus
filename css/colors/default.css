@@ -29,8 +29,9 @@
 .portfolio-box .work-img .overlay-work .work-content .title:hover a,
 .portfolio-box .gallary-title .title:hover a,
 .footer .footer-list li a:hover {
-    color: #a3c85e !important;
+    color: #294dff !important;
 }
+
 
 /* Background color */
 
@@ -65,8 +66,9 @@
 .sidebar .widget .tagcloud>a:hover,
 .container-filter li a:hover,
 .container-filter li a.active {
-    background-color: #a3c85e !important;
+    background-color: #294dff !important;
 }
+
 
 /* Border color */
 
@@ -82,25 +84,25 @@
 .pricing-tab,
 .container-filter li a:hover,
 .container-filter li a.active {
-    border-color: #a3c85e !important;
+    border-color: #294dff !important;
 }
 
 .page-triangle.triangle-custom:after {
-    border-top-color: #a3c85e;
+    border-top-color: #294dff;
 }
 
 .dropdown-menu,
 #topnav .navigation-menu>li.has-submenu:hover>.submenu,
 .custom-form .form-control:focus,
 .custom-form .form-control:active {
-    border-bottom-color: #a3c85e !important;
+    border-bottom-color: #294dff !important;
 }
 
 #topnav .navigation-menu>li.has-submenu:hover>.submenu>li.has-submenu:hover>.submenu {
-    border-top: #a3c85e !important;
+    border-top: #294dff !important;
 }
 
 .team-img img {
-    -webkit-box-shadow: -20px -20px 0px -5px #a3c85e;
-    box-shadow: -20px -20px 0px -5px #a3c85e;
+    -webkit-box-shadow: -20px -20px 0px -5px #294dff;
+    box-shadow: -20px -20px 0px -5px #294dff;
 }
