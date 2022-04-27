@@ -13,7 +13,7 @@
                         <div class="col-lg-12">
                             <div class="title-heading text-center">
                                 <h1 class="heading font-weight-bold text-capitalize mb-3 text-white">We Import & Export <span class="text-custom"> General Goods</span></h1>
-                                <p class="text-light mx-auto para-desc">Get in touch with us and we’ll provide you with a great Customs Services that suits you the best as far as importation and exportations of goods are concern</p>
+                                <p class="text-light mx-auto para-desc">Get in touch with us and we’ll provide you with a great Customer Services that suits you the best as far as importation and exportations of goods are concern</p>
                                 <div class="">
                                     <a href="#" class="btn rounded btn-custom mb-2 mr-2">Contact Us</a>
                                     <a href="#" class="btn rounded btn-custom-white mb-2">About Us</a>
@@ -40,11 +40,11 @@
                     <div class="section-title mb-0">
                         <h3 class="title text-capitalize mb-3">About Godave Plus</h3>
                         <p class="text-muted">Godave Plus Company Limited is experienced in export and import of general goods, general merchant, roads and building construction.</p>
-                        <p class="text-muted">Phasellus ut condimentum diam, eget tempus lorem. Morbi bibendum est quis arcu posuere condimentum. Nullam justo eros, pellentesque a metus non, mattis volutpat libero. Praesent ornare felis ante, sit amet porta felis pellentesque
-                            fermentum.
+                        <p class="text-muted">
+                            ...
                         </p>
                         <div class="mt-3">
-                            <a href="page_about.html" class="btn btn-custom">Read more <i class="fas fa-angle-right ml-2"></i></a>
+                            <a href="#" class="btn btn-custom">Read more <i class="fas fa-angle-right ml-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -115,13 +115,13 @@
                 <div class="col-lg-10 col-md-9 col-12">
                     <div class="intro-text">
                         <h4 class="text-capitalize text-light font-weight-bold title mb-3">Let's get Started !</h4>
-                        <p class="text-light mb-0">Paying attention to what our customers want and what they say is the most important value in Stylemix.</p>
+                        <p class="text-light mb-0">Get in touch with us and let's do business together</p>
                     </div>
                 </div>
                 <!--end col-->
 
                 <div class="col-lg-2 col-md-3 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <a href="#" class="btn rounded btn-dark">Buy Now</a>
+                    <a href="#" class="btn rounded btn-dark">Get in touch</a>
                 </div>
                 <!--end col-->
             </div>
@@ -309,129 +309,6 @@
     <!--end section-->
     <!-- Testimonial End -->
 
-    <!-- Price Start -->
-    <section class="section">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12">
-                    <div class="section-title text-center mb-4 pb-2">
-                        <h3 class="title text-capitalize">Pick the best plan</h3>
-                        <hr>
-                        <p class="para-desc mx-auto text-muted mb-0">We are so excited and proud of our business. It's really easy to create a landing page for your awesome business.</p>
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="pricing-table border rounded bg-white text-center">
-                        <h5 class="pricing-plan rounded-top text-uppercase bg-light p-3 mb-0">Basic</h5>
-                        <div class="price-value pt-4 pb-4 border-bottom">
-                            <h4 class="mb-0">$0</h4>
-                            <small class="text-uppercase">Per Month</small>
-                        </div>
-                        <div class="pricing-features p-4 pl-5 pr-5">
-                            <ul class="list-unstyled">
-                                <li class="mb-2 pb-2 position-relative border-bottom">Full Access</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Source Files</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">100 User Accounts</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">1 Year License</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Phone & Email Support</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Manual Backup</li>
-                            </ul>
-                            <div class="">
-                                <a href="#" class="btn rounded btn-danger btn-sm w-100">Choose Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end table-->
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="pricing-table border rounded business-plan position-relative shadow bg-white text-center">
-                        <h5 class="pricing-plan rounded-top text-uppercase bg-custom text-light p-3 mb-0">Standerd</h5>
-                        <div class="price-value pt-4 pb-4 border-bottom">
-                            <h4 class="mb-0">$199</h4>
-                            <small class="text-uppercase">Per Month</small>
-                        </div>
-                        <div class="pricing-features p-4 pl-5 pr-5">
-                            <ul class="list-unstyled">
-                                <li class="mb-2 pb-2 position-relative border-bottom">Full Access</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Source Files</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">100 User Accounts</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">1 Year License</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Phone & Email Support</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Manual Backup</li>
-                            </ul>
-                            <div class="">
-                                <a href="#" class="btn rounded btn-custom btn-sm w-100">Choose Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end table-->
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="pricing-table border rounded bg-white text-center">
-                        <h5 class="pricing-plan rounded-top text-uppercase bg-light p-3 mb-0">Premium</h5>
-                        <div class="price-value pt-4 pb-4 border-bottom">
-                            <h4 class="mb-0">$299</h4>
-                            <small class="text-uppercase">Per Month</small>
-                        </div>
-                        <div class="pricing-features p-4 pl-5 pr-5">
-                            <ul class="list-unstyled">
-                                <li class="mb-2 pb-2 position-relative border-bottom">Full Access</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Source Files</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">100 User Accounts</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">1 Year License</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Phone & Email Support</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Manual Backup</li>
-                            </ul>
-                            <div class="">
-                                <a href="#" class="btn rounded btn-danger btn-sm w-100">Choose Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end table-->
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="pricing-table border rounded bg-white text-center">
-                        <h5 class="pricing-plan rounded-top text-uppercase bg-light p-3 mb-0">Professional</h5>
-                        <div class="price-value pt-4 pb-4 border-bottom">
-                            <h4 class="mb-0">$499</h4>
-                            <small class="text-uppercase">Per Month</small>
-                        </div>
-                        <div class="pricing-features p-4 pl-5 pr-5">
-                            <ul class="list-unstyled">
-                                <li class="mb-2 pb-2 position-relative border-bottom">Full Access</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Source Files</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">100 User Accounts</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">1 Year License</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Phone & Email Support</li>
-                                <li class="mb-2 pb-2 position-relative border-bottom">Manual Backup</li>
-                            </ul>
-                            <div class="">
-                                <a href="#" class="btn rounded btn-danger btn-sm w-100">Choose Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end table-->
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-        </div>
-        <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- Price End -->
-
     <!-- Team START -->
     <section class="section bg-light">
         <div class="page-triangle"></div>
@@ -439,9 +316,9 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="section-title text-center mb-4 pb-2">
-                        <h3 class="title text-capitalize">Company's Assets</h3>
+                        <h3 class="title text-capitalize">Our Team</h3>
                         <hr>
-                        <p class="para-desc mx-auto text-muted mb-0">We are so excited and proud of our business. It's really easy to create a landing page for your awesome business.</p>
+                        <p class="para-desc mx-auto text-muted mb-0">These are our experience team members who are willing to put you ahead of your competitors.</p>
                     </div>
                 </div>
                 <!--end col-->
@@ -540,113 +417,156 @@
     <!--end section-->
     <!-- Team END -->
 
-    <!-- Blog Start -->
+    <!-- contact START -->
     <section class="section">
-        <div class="page-triangle triangle-light"></div>
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row">
                 <div class="col-12">
                     <div class="section-title text-center mb-4 pb-2">
-                        <h3 class="title text-capitalize">News & Announcements</h3>
-                        <hr>
-                        <p class="para-desc mx-auto text-muted mb-0">We are so excited and proud of our business. It's really easy to create a landing page for your awesome business.</p>
+                        <h3 class="title text-capitalize">Reach us let's get started</h3>
+                        <hr class="white">
+                        <p class="para-desc text-muted mb-0 mx-auto">We are so excited and proud to have you. you can reach us by sending email or call.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row p-5">
+                <div class="col-lg-6 col-md-6 mt-4 pt-2 shadow">
+                    <form method="post" action="php/contact.php" name="contact-form" id="contact-form">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    
+                                    <div class="row">
+                                        <div class="col-md-6 col-12">
+                                            <label for="name">First Name</label>  
+                                            <input name="name" id="name" type="text" class="form-control rounded" >
+                                        </div>
+                                        <div class="col-md-6 col-12">
+                                            <label for="name">Last Name</label> 
+                                            <input name="name" id="lname" type="text" class="form-control rounded">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--end col-->
+
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="subject">Your subject</label>
+                                    <input name="subject" id="subject" type="text" class="form-control rounded">
+                                </div>
+                            </div>
+                            <!--end col-->
+
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="company">Company name</label>
+                                    <input name="company" id="company" type="text" class="form-control rounded">
+                                </div>
+                            </div>
+                            <!--end col-->
+
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label for="email">Email</label>
+                                    <input name="email" id="email" type="email" class="form-control rounded">
+                                </div>
+                            </div>
+                            <!--end col-->
+
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label for="name">Message</label>
+                                    <textarea name="comments" id="comments" rows="4" class="form-control rounded"></textarea>
+                                </div>
+                            </div>
+                            <!--end col-->
+                        </div>
+                        <!--end row-->
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <input type="submit" id="submit" name="send" class="submitBnt btn btn-custom w-100" value="Send Message">
+                                <div id="simple-msg"></div>
+                            </div>
+                            <!--end col-->
+                        </div>
+                        <!--end row-->
+                    </form>
+                </div>
+                <!--end col-->
+
+                <div class="col-lg-6 col-md-6">
+                    <div class="pt-md-5 mt-sm-0 pt-2 pt-sm-0">
+                        <div class="row">
+                            <div class="col-lg-12 p-0">
+                                <div class="map contact-map">
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26450.703875827203!2d-118.17714508359843!3d34.035200272995354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2cf71ad83ff9f%3A0x518b28657f4543b7!2sEast+Los+Angeles%2C+CA%2C+USA!5e0!3m2!1sen!2smx!4v1558185841201!5m2!1sen!2smx"
+                                        style="width: 100%; height: 63vh; margin-top: 8px; margin-left: 10px" style="border:0" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                            <!--end col-->
+                        </div>
+                        <!--end row-->
+                    </div>
+                    <!--end row-->
+                </div>
+                <!--end col-->
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+
+        <!--end container fluid-->
+
+        <div class="container">
+            <div class="row mt-md-5">
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="contact-detail border-right">
+                        <div class="icon float-left text-custom mr-4">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <div class="content overflow-hidden d-block">
+                            <h4 class="contact-detail-title mb-2">Call Us</h4>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">Office Phone :</span> +233 387 9879</p>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">Mobile Phone :</span> +233 876 9809</p>
+                        </div>
+                    </div>
+                </div>
+                <!--end col-->
+
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="contact-detail border-right">
+                        <div class="icon float-left text-custom mr-4">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="content overflow-hidden d-block">
+                            <h4 class="contact-detail-title mb-2">Where to find us</h4>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">Address :</span> Kumasi - Manhyia </p>
+                        </div>
+                    </div>
+                </div>
+                <!--end col-->
+
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="contact-detail">
+                        <div class="icon float-left text-custom mr-4">
+                            <i class="far fa-envelope"></i>
+                        </div>
+                        <div class="content overflow-hidden d-block">
+                            <h4 class="contact-detail-title mb-2">Email </h4>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">E-mail :</span> info@godave.com</p>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">Enquiries :</span> david@godave.com</p>
+                        </div>
                     </div>
                 </div>
                 <!--end col-->
             </div>
             <!--end row-->
-
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-                    <article class="post">
-                        <div class="post-preview overflow-hidden">
-                            <a href="#"><img src="images/blog/01.jpg" alt="blog-img" class="img-fluid mx-auto d-block rounded"></a>
-                            <div class="tag"><a href="blog_detail.html" class="btn btn-custom rounded btn-sm"><i class="fas fa-tag mr-2"></i> Business</a></div>
-                        </div>
-                        <!--end img-->
-                        <div class="post-content bg-white rounded shadow p-4 position-relative">
-                            <ul class="post-meta list-unstyled list-inline mb-3">
-                                <li class="list-inline-item"><i class="far fa-calendar-check mr-2"></i>August 15th, 2019</li>
-                                <li class="list-inline-item"><i class="fas fa-user mr-2"></i><a href="#" class="text-dark"> Bizzcane </a></li>
-                            </ul>
-                            <h4 class="mb-3"><a href="blog_detail.html" class="post-title text-dark">The Biggest Reset Looms for Corporate Credit Market</a></h4>
-                            <p class="text-muted mb-0">On the other hand, we denounce with righteous indignation and dislike men who are indignation.</p>
-                            <div class="read-more mb-3 mt-2"><a href="#" class="text-dark"> Read More <i class="fas fa-arrow-right ml-2"></i></a></div>
-                            <div class="post-footer border-top">
-                                <ul class="post-meta list-unstyled list-inline mb-0">
-                                    <li class="list-inline-item float-right"><a href="#" class="text-dark"> <i class="far fa-comment mr-1"></i>8 Comments</a></li>
-                                    <li class="list-inline-item"><a href="#" class="text-dark"><i class="far fa-heart mr-1"></i> 5 Like</a></li>
-                                </ul>
-                            </div>
-                            <!--end post footer -->
-                        </div>
-                        <!--end post content-->
-                    </article>
-                    <!--end post-->
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-                    <article class="post">
-                        <div class="post-preview overflow-hidden">
-                            <a href="#"><img src="images/blog/02.jpg" alt="blog-img" class="img-fluid mx-auto d-block rounded"></a>
-                            <div class="tag"><a href="blog_detail.html" class="btn btn-custom rounded btn-sm"><i class="fas fa-tag mr-2"></i> Finance</a></div>
-                        </div>
-                        <!--end img-->
-                        <div class="post-content bg-white rounded shadow p-4 position-relative">
-                            <ul class="post-meta list-unstyled list-inline mb-3">
-                                <li class="list-inline-item"><i class="far fa-calendar-check mr-2"></i>August 15th, 2019</li>
-                                <li class="list-inline-item"><i class="fas fa-user mr-2"></i><a href="#" class="text-dark"> Bizzcane </a></li>
-                            </ul>
-                            <h4 class="mb-3"><a href="blog_detail.html" class="post-title text-dark">Cost For Craftmanship Nostrum Exercitationem</a></h4>
-                            <p class="text-muted mb-0">On the other hand, we denounce with righteous indignation and dislike men who are indignation.</p>
-                            <div class="read-more mb-3 mt-2"><a href="#" class="text-dark"> Read More <i class="fas fa-arrow-right ml-2"></i></a></div>
-                            <div class="post-footer border-top">
-                                <ul class="post-meta list-unstyled list-inline mb-0">
-                                    <li class="list-inline-item float-right"><a href="#" class="text-dark"> <i class="far fa-comment mr-1"></i>6 Comments</a></li>
-                                    <li class="list-inline-item"><a href="#" class="text-dark"><i class="far fa-heart mr-1"></i> 3 Like</a></li>
-                                </ul>
-                            </div>
-                            <!--end post footer -->
-                        </div>
-                        <!--end post content-->
-                    </article>
-                    <!--end post-->
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-                    <article class="post">
-                        <div class="post-preview overflow-hidden">
-                            <a href="#"><img src="images/blog/04.jpg" alt="blog-img" class="img-fluid mx-auto d-block rounded"></a>
-                            <div class="tag"><a href="blog_detail.html" class="btn btn-custom rounded btn-sm"><i class="fas fa-tag mr-2"></i> Investment</a></div>
-                        </div>
-                        <!--end img-->
-                        <div class="post-content bg-white rounded shadow p-4 position-relative">
-                            <ul class="post-meta list-unstyled list-inline mb-3">
-                                <li class="list-inline-item"><i class="far fa-calendar-check mr-2"></i>August 15th, 2019</li>
-                                <li class="list-inline-item"><i class="fas fa-user mr-2"></i><a href="#" class="text-dark"> Bizzcane </a></li>
-                            </ul>
-                            <h4 class="mb-3"><a href="blog_detail.html" class="post-title text-dark">Financial Planning & Accounting</a></h4>
-                            <p class="text-muted mb-0">On the other hand, we denounce with righteous indignation and dislike men who are indignation and dislike men who are indignation.</p>
-                            <div class="read-more mb-3 mt-2"><a href="#" class="text-dark"> Read More <i class="fas fa-arrow-right ml-2"></i></a></div>
-                            <div class="post-footer border-top">
-                                <ul class="post-meta list-unstyled list-inline mb-0">
-                                    <li class="list-inline-item float-right"><a href="#" class="text-dark"> <i class="far fa-comment mr-1"></i>13 Comments</a></li>
-                                    <li class="list-inline-item"><a href="#" class="text-dark"><i class="far fa-heart mr-1"></i> 6 Like</a></li>
-                                </ul>
-                            </div>
-                            <!--end post footer -->
-                        </div>
-                        <!--end post content-->
-                    </article>
-                    <!--end post-->
-                </div>
-                <!--end col-->
-            </div>
         </div>
+        <!--end container-->
     </section>
-    <!-- Blog End -->
+    <!--end section-->
+    <!-- contact END -->
 
     <!--end section-->
     <!-- Partner End -->
