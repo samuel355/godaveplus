@@ -31,6 +31,38 @@
     <!--end section-->
     <!-- End Home -->
 
+
+    <!-- About Start -->
+    <section class="section bg-light">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="section-title mb-0">
+                        <h3 class="title text-capitalize mb-3">About Godave Plus</h3>
+                        <p class="text-muted">Godave Plus Company Limited is experienced in export and import of general goods, general merchant, roads and building construction.</p>
+                        <p class="text-muted">Phasellus ut condimentum diam, eget tempus lorem. Morbi bibendum est quis arcu posuere condimentum. Nullam justo eros, pellentesque a metus non, mattis volutpat libero. Praesent ornare felis ante, sit amet porta felis pellentesque
+                            fermentum.
+                        </p>
+                        <div class="mt-3">
+                            <a href="page_about.html" class="btn btn-custom">Read more <i class="fas fa-angle-right ml-2"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!--end col-->
+
+                <div class="col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                    <img src="images/about/01.png" class="img-fluid ml-lg-4" alt="">
+                </div>
+                <!--end col-->
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- About End -->
+
+
     <!-- Feature Start -->
     <section class="section features bg-white feature-two-bg">
         <div class="container">
@@ -75,34 +107,6 @@
     <!--end section-->
     <!-- Feature End -->
 
-    <!-- About Start -->
-    <section class="section bg-light">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="section-title mb-0">
-                        <h3 class="title text-capitalize mb-3">Bizzcane Overview</h3>
-                        <p class="text-muted">We are so excited and proud of our business. It's really easy to create a landing page for your awesome business.</p>
-                        <p class="text-muted">Phasellus ut condimentum diam, eget tempus lorem. Morbi bibendum est quis arcu posuere condimentum. Nullam justo eros, pellentesque a metus non, mattis volutpat libero. Praesent ornare felis ante, sit amet porta felis pellentesque
-                            fermentum.</p>
-                        <div class="mt-3">
-                            <a href="page_about.html" class="btn btn-custom">Read more <i class="fas fa-angle-right ml-2"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <img src="images/about/01.png" class="img-fluid ml-lg-4" alt="">
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-        </div>
-        <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- About End -->
 
     <!-- Start Cta -->
     <section class="section-two bg-custom contact-cta">
