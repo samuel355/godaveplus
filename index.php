@@ -50,8 +50,8 @@
                 </div>
                 <!--end col-->
 
-                <div class="col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <img src="images/about/01.png" class="img-fluid ml-lg-4" alt="">
+                <div class="col-md-6 mt-5 mt-sm-0 pt-2 pt-sm-0">
+                    <img src="images/about/01.png" class="img-fluid ml-lg-4" style="margin-top: 1rem;" alt="">
                 </div>
                 <!--end col-->
             </div>
@@ -70,7 +70,7 @@
                 <div class="col-md-4">
                     <div class="card feature-two position-relative bg-transparent pl-4 pr-4 border-0 text-center">
                         <div class="icon mb-3">
-                            <i class="pe-7s-world"></i>
+                            <i class="fa fa-globe"></i> 
                         </div>
                         <h4 class="feature-head mb-3">Global Partners</h4>
                         <p class="text-muted mb-0">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>
@@ -81,7 +81,7 @@
                 <div class="col-md-4 center-fe">
                     <div class="card feature-two position-relative bg-transparent pl-4 pr-4 border-0 text-center">
                         <div class="icon mb-3">
-                            <i class="pe-7s-shield"></i>
+                            <i class="fa fa-ship"></i>
                         </div>
                         <h4 class="feature-head mb-3">Trusted Partners</h4>
                         <p class="text-muted mb-0">It is a long established fact that a reader will be distracted by the content of at its readable.</p>
@@ -92,7 +92,7 @@
                 <div class="col-md-4 left-fe">
                     <div class="card feature-two position-relative bg-transparent pl-4 pr-4 border-0 text-center">
                         <div class="icon mb-3">
-                            <i class="pe-7s-wallet"></i>
+                            <i class="fa fa-group"></i>
                         </div>
                         <h4 class="feature-head mb-3">Financial Analysis</h4>
                         <p class="text-muted mb-0">Many desktop publishing packages and web page editors now use Lorem Ipsum as their text, and.</p>
@@ -336,10 +336,10 @@
                             <span class="text-muted">Founder & CEO</span>
                             <div class="mt-3">
                                 <ul class="list-unstyled social-icon mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook" title="facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram" title="instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -357,10 +357,10 @@
                             <span class="text-muted">Co-Founder</span>
                             <div class="mt-3">
                                 <ul class="list-unstyled social-icon mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook" title="facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram" title="instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -378,10 +378,10 @@
                             <span class="text-muted">Managing Director</span>
                             <div class="mt-3">
                                 <ul class="list-unstyled social-icon mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook" title="facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram" title="instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -399,10 +399,10 @@
                             <span class="text-muted">Senior Designer</span>
                             <div class="mt-3">
                                 <ul class="list-unstyled social-icon mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook" title="facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram" title="instagram"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
+                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>

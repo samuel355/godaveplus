@@ -86,8 +86,8 @@
 
 
     <!-- Back to top -->
-    <a href="#" class="back-to-top rounded text-center" id="back-to-top"> 
-            <i class="mdi mdi-chevron-up d-block"> </i> 
+        <a href="#" class="back-to-top rounded text-center bg-white" id="back-to-top" style="border: 1px solid #ba1c41"> 
+            <i class="fa fa-chevron-up d-block bg-white"> </i> 
         </a>
     <!-- Back to top -->
 
