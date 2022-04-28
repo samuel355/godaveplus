@@ -8,12 +8,12 @@
                         <div class="icon d-inline-block">
                             <img src="images/icon-logo.png" alt="missing_logo" height="20">
                         </div>
-                        Bizzcane
+                        Godave
                     </a>
                     <p class="mt-4 text-white-50">Nor again is there anyone who loves or pursues or desires to obtain pain of itself pleasure.</p>
                     <p class="mb-0 text-white-50">All the Lorem Ipsum generators on the Internet tend to repeat.</p>
                     <div class="mt-2 read-more">
-                        <a href="page_about.html" class="text-light">Read More <i class="fas fa-angle-right ml-1"></i></a>
+                        <a href="page_about.html" class="text-light">Read More <i class="fa fa-angle-right ml-1"></i></a>
                     </div>
                 </div>
                 <!--end col-->
@@ -21,11 +21,11 @@
                 <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Company</h4>
                     <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Aboutus</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Services</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Team</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Pricing</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Features</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Aboutus</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Services</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Team</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Pricing</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Features</a></li>
                     </ul>
                 </div>
                 <!--end col-->
@@ -33,31 +33,31 @@
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Usefull Links</h4>
                     <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy Protection</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Safe Payments</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Terms of Services</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Documentation</a></li>
-                        <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy Policy</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Privacy Protection</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Safe Payments</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Terms of Services</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Documentation</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Privacy Policy</a></li>
                     </ul>
                 </div>
                 <!--end col-->
 
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light font-weight-normal footer-head mb-4">Bizzcane Store</h4>
+                    <h4 class="text-light font-weight-normal footer-head mb-4">Godave Plus</h4>
                     <ul class="list-unstyled footer-list">
-                        <li><i class="fas fa-map-marker-alt mr-2"></i> 3/2/64 Mongus Street, UK</li>
-                        <li><i class="fas fa-envelope mr-2"></i> name@domain.com</li>
-                        <li><i class="fas fa-mobile mr-2"></i> +(125) 215-4561</li>
-                        <li><i class="fas fa-globe-asia mr-2"></i> www.yourdomain.com</li>
-                        <li><i class="fab fa-twitter mr-2"></i> yourname_tweet</li>
+                        <li><i class="fa fa-map mr-2"></i> 3/2/64 Mongus Street, UK</li>
+                        <li><i class="fa fa-envelope mr-2"></i> name@domain.com</li>
+                        <li><i class="fa fa-phone mr-2"></i> +(125) 215-4561</li>
+                        <li><i class="fa fa-globe mr-2"></i> www.yourdomain.com</li>
+                        <li><i class="fa fa-twitter mr-2"></i> yourname_tweet</li>
                     </ul>
                     <div class="mt-3">
                         <ul class="list-unstyled social-icon social mb-0">
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook" title="facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-linkedin" title="linkedin"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-dribbble" title="dribbble"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram" title="instagram"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-twitter" title="twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-twitter" title="twitter"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
 
     <!-- Back to top -->
         <a href="#" class="back-to-top rounded text-center bg-white" id="back-to-top" style="border: 1px solid #ba1c41"> 
-            <i class="fa fa-chevron-up d-block bg-white"> </i> 
+            <i class="fa fa-chevron-up d-block"> </i> 
         </a>
     <!-- Back to top -->
 

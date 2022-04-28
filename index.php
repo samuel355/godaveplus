@@ -51,7 +51,7 @@
                 <!--end col-->
 
                 <div class="col-md-6 mt-5 mt-sm-0 pt-2 pt-sm-0">
-                    <img src="images/about/01.png" class="img-fluid ml-lg-4" style="margin-top: 1rem;" alt="">
+                    <img src="images/about/01.png" class="img-fluid ml-lg-4" style="margin-top: 1rem" alt="">
                 </div>
                 <!--end col-->
             </div>
@@ -432,10 +432,9 @@
             <div class="row p-5">
                 <div class="col-lg-6 col-md-6 mt-4 pt-2 shadow">
                     <form method="post" action="php/contact.php" name="contact-form" id="contact-form">
-                        <div class="row">
+                        <div class="row my-4">
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    
                                     <div class="row">
                                         <div class="col-md-6 col-12">
                                             <label for="name">First Name</label>  
@@ -452,24 +451,16 @@
 
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <label for="subject">Your subject</label>
-                                    <input name="subject" id="subject" type="text" class="form-control rounded">
+                                    <label for="subject">Email</label>
+                                    <input name="subject" id="email" type="email" class="form-control rounded">
                                 </div>
                             </div>
                             <!--end col-->
 
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <label for="company">Company name</label>
-                                    <input name="company" id="company" type="text" class="form-control rounded">
-                                </div>
-                            </div>
-                            <!--end col-->
-
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <label for="email">Email</label>
-                                    <input name="email" id="email" type="email" class="form-control rounded">
+                                    <label for="company">Subject</label>
+                                    <input name="subm" id="company" type="text" class="form-control rounded">
                                 </div>
                             </div>
                             <!--end col-->
