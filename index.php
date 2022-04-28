@@ -43,7 +43,7 @@
                         <p class="text-muted">
                             ...
                         </p>
-                        <div class="mt-3">
+                        <div class="mt-3 center-btn">
                             <a href="#" class="btn btn-custom">Read more <i class="fa font-weight-bold fa-angle-right ml-2"></i></a>
                         </div>
                     </div>

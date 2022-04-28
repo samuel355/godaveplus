@@ -1750,6 +1750,9 @@ hr {
     .page-next-level .page-two {
         margin-top: 15px;
     }
+    .center-btn {
+        text-align: center;
+    }
 }
 
 @media (max-width: 991px) {
