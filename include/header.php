@@ -3,11 +3,11 @@
         <div class="container">
             <!-- Logo container-->
             <div>
-                <a href="index.html" class="logo">
+                <a href="index.php" class="logo">
                     <div class="icon d-inline-block">
-                        <img src="images/logo" alt="" height="20">
+                        <img src="images/logo/godaveplus.png" alt="" height="20">
                     </div>
-                   GODAVE
+                   GODAVE +
                 </a>
             </div>
             <!-- End Logo container-->

@@ -44,7 +44,7 @@
                             ...
                         </p>
                         <div class="mt-3">
-                            <a href="#" class="btn btn-custom">Read more <i class="fas fa-angle-right ml-2"></i></a>
+                            <a href="#" class="btn btn-custom">Read more <i class="fa font-weight-bold fa-angle-right ml-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                 <!--end col-->
 
                 <div class="col-lg-2 col-md-3 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <a href="#" class="btn rounded btn-dark">Get in touch</a>
+                    <a href="#" class="btn rounded bg-white shadow-md">Get in touch</a>
                 </div>
                 <!--end col-->
             </div>

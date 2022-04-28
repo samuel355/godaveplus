@@ -9,7 +9,7 @@
     <meta content="Samuel Osei Adu" name="designer" />
 
     <!-- FAVICON -->
-    <link rel="shortcut icon" href="images/favico">
+    <link rel="shortcut icon" href="images/logo/godaveplus-sm.png">
     <!-- BOOTSTRAP -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- MAGNIFIC POPUP -->
@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/owl.transitions.css" />
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/slick.css" />
+    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
     <!-- Custom Css -->
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
