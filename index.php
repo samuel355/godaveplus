@@ -490,12 +490,13 @@
                 <!--end col-->
 
                 <div class="col-lg-6 col-md-6">
-                    <div class="pt-md-5 mt-sm-0 pt-2 pt-sm-0">
+                    <div class="mt-3 shadow">
                         <div class="row">
                             <div class="col-lg-12 p-0">
-                                <div class="map contact-map">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26450.703875827203!2d-118.17714508359843!3d34.035200272995354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2cf71ad83ff9f%3A0x518b28657f4543b7!2sEast+Los+Angeles%2C+CA%2C+USA!5e0!3m2!1sen!2smx!4v1558185841201!5m2!1sen!2smx"
-                                    style="width: 100%; height: 65vh; margin-left: 15px" allowfullscreen></iframe>
+                                <div>
+                                    <div class="map contact-map">
+                                        <iframe style="width: 100%; height: 65vh; margin-left: 15px" id="gmap_canvas" src="https://maps.google.com/maps?q=dichemso&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                                    </div>
                                 </div>
                             </div>
                             <!--end col-->

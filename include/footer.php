@@ -86,7 +86,7 @@
 
 
     <!-- Back to top -->
-        <a href="#" class="back-to-top rounded text-center bg-white shadow-lg" id="back-to-top" style="border: 1px solid #294dff; box-shadow: 2px 2px 15px gray"> 
+        <a href="#" class="back-to-top rounded text-center bg-white shadow-lg" id="back-to-top" style="border: 1px solid white; box-shadow: 2px 2px 15px gray"> 
             <i class="fa fa-chevron-up d-block text-center"> </i> 
         </a>
     <!-- Back to top -->
