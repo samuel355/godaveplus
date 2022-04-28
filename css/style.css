@@ -1344,8 +1344,10 @@ hr {
         float: none !important;
     }
     #topnav .navigation-menu {
-        float: none;
+        float: right;
         max-height: 400px;
+        padding: 1rem 0;
+        margin-right: 8px;
     }
     #topnav .navigation-menu>li {
         float: none;

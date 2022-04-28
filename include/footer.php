@@ -74,7 +74,7 @@
             <div class="row align-items-center">
                 <div class="col-sm-12">
                     <div class="text-sm-center">
-                        <p class="mb-0 text-center">© 2022 Godave <span style="font-size: 20px;">+</span> limited | All Rights Reserved </p>
+                        <p class="mb-0 text-center">© 2022 Godave Plus <span style="font-size: 20px;">+</span> limited | All Rights Reserved </p>
                     </div>
                 </div>
             </div>
@@ -86,8 +86,8 @@
 
 
     <!-- Back to top -->
-        <a href="#" class="back-to-top rounded text-center bg-white" id="back-to-top" style="border: 1px solid #ba1c41"> 
-            <i class="fa fa-chevron-up d-block"> </i> 
+        <a href="#" class="back-to-top rounded text-center bg-white shadow-lg" id="back-to-top" style="border: 1px solid #294dff; box-shadow: 2px 2px 15px gray"> 
+            <i class="fa fa-chevron-up d-block text-center"> </i> 
         </a>
     <!-- Back to top -->
 

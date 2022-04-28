@@ -28,10 +28,10 @@
             <div id="navigation">
                 <!-- Navigation Menu-->
                 <ul class="navigation-menu">
-                    <li class="has-submenu font-weight-bold"><a href="javascript:void(0)">Home</a></li>
-                    <li class="has-submenu font-weight-bold"><a href="about-us.php">About Us</a></li>
-                    <li class="has-submenu font-weight-bold"><a href="services.php">Services</a></li>
-                    <li class="has-submenu font-weight-bold"><a href="page_contact.html">Contact us</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="">Home</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="">About Us</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="">Services</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="">Contact us</a></li>
                 </ul>
                 <!-- End navigation menu-->
             </div>
