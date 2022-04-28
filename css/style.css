@@ -1753,6 +1753,9 @@ hr {
     .center-btn {
         text-align: center;
     }
+    .center-icons {
+        text-align: center;
+    }
 }
 
 @media (max-width: 991px) {
