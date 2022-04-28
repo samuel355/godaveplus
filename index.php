@@ -477,7 +477,7 @@
                             <!--end col-->
                         </div>
                         <!--end row-->
-                        <div class="row">
+                        <div class="row mb-5">
                             <div class="col-sm-12">
                                 <input type="submit" id="submit" name="send" class="submitBnt btn btn-custom w-100" value="Send Message">
                                 <div id="simple-msg"></div>
@@ -495,7 +495,7 @@
                             <div class="col-lg-12 p-0">
                                 <div class="map contact-map">
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26450.703875827203!2d-118.17714508359843!3d34.035200272995354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2cf71ad83ff9f%3A0x518b28657f4543b7!2sEast+Los+Angeles%2C+CA%2C+USA!5e0!3m2!1sen!2smx!4v1558185841201!5m2!1sen!2smx"
-                                        style="width: 100%; height: 63vh; margin-top: 8px; margin-left: 10px" style="border:0" allowfullscreen></iframe>
+                                    style="width: 100%; height: 65vh; margin-left: 15px" allowfullscreen></iframe>
                                 </div>
                             </div>
                             <!--end col-->
@@ -517,7 +517,7 @@
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="contact-detail border-right">
                         <div class="icon float-left text-custom mr-4">
-                            <i class="fas fa-phone"></i>
+                            <i class="fa fa-phone"></i>
                         </div>
                         <div class="content overflow-hidden d-block">
                             <h4 class="contact-detail-title mb-2">Call Us</h4>
@@ -531,7 +531,7 @@
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="contact-detail border-right">
                         <div class="icon float-left text-custom mr-4">
-                            <i class="fas fa-map-marker-alt"></i>
+                            <i class="fa fa-map-marker"></i>
                         </div>
                         <div class="content overflow-hidden d-block">
                             <h4 class="contact-detail-title mb-2">Where to find us</h4>
@@ -544,7 +544,7 @@
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="contact-detail">
                         <div class="icon float-left text-custom mr-4">
-                            <i class="far fa-envelope"></i>
+                            <i class="fa fa-envelope"></i>
                         </div>
                         <div class="content overflow-hidden d-block">
                             <h4 class="contact-detail-title mb-2">Email </h4>

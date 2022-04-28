@@ -8,7 +8,7 @@
                         <div class="icon d-inline-block">
                             <img src="images/icon-logo.png" alt="missing_logo" height="20">
                         </div>
-                        Godave
+                        Godave Plus
                     </a>
                     <p class="mt-4 text-white-50">Nor again is there anyone who loves or pursues or desires to obtain pain of itself pleasure.</p>
                     <p class="mb-0 text-white-50">All the Lorem Ipsum generators on the Internet tend to repeat.</p>
@@ -45,7 +45,7 @@
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light font-weight-normal footer-head mb-4">Godave Plus</h4>
                     <ul class="list-unstyled footer-list">
-                        <li><i class="fa fa-map mr-2"></i> Kumas - Ghana</li>
+                        <li><i class="fa fa-map-marker mr-2"></i> Kumas - Ghana</li>
                         <li><i class="fa fa-envelope mr-2"></i> info@godave.com</li>
                         <li><i class="fa fa-phone mr-2"></i> (+233) 215-4561</li>
                         <li><i class="fa fa-globe mr-2"></i> www.godaveplus.com</li>
