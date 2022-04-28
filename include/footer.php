@@ -21,7 +21,7 @@
                 <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Company</h4>
                     <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Aboutus</a></li>
+                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> About us</a></li>
                         <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Services</a></li>
                         <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Team</a></li>
                         <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Pricing</a></li>
@@ -31,7 +31,7 @@
                 <!--end col-->
 
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light footer-head">Usefull Links</h4>
+                    <h4 class="text-light footer-head">Useful Links</h4>
                     <ul class="list-unstyled footer-list mt-4">
                         <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Privacy Protection</a></li>
                         <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Safe Payments</a></li>
@@ -45,11 +45,11 @@
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light font-weight-normal footer-head mb-4">Godave Plus</h4>
                     <ul class="list-unstyled footer-list">
-                        <li><i class="fa fa-map mr-2"></i> 3/2/64 Mongus Street, UK</li>
-                        <li><i class="fa fa-envelope mr-2"></i> name@domain.com</li>
-                        <li><i class="fa fa-phone mr-2"></i> +(125) 215-4561</li>
-                        <li><i class="fa fa-globe mr-2"></i> www.yourdomain.com</li>
-                        <li><i class="fa fa-twitter mr-2"></i> yourname_tweet</li>
+                        <li><i class="fa fa-map mr-2"></i> Kumas - Ghana</li>
+                        <li><i class="fa fa-envelope mr-2"></i> info@godave.com</li>
+                        <li><i class="fa fa-phone mr-2"></i> (+233) 215-4561</li>
+                        <li><i class="fa fa-globe mr-2"></i> www.godaveplus.com</li>
+                        <li><i class="fa fa-twitter mr-2"></i> godaveplut</li>
                     </ul>
                     <div class="mt-3">
                         <ul class="list-unstyled social-icon social mb-0">
