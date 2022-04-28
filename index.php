@@ -66,6 +66,15 @@
     <!-- Feature Start -->
     <section class="section features bg-white feature-two-bg">
         <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="section-title text-center mb-4 pb-2">
+                        <h3 class="title text-capitalize">Why Choose Us ?</h3>
+                        <hr>
+                    </div>
+                </div>
+                <!--end col-->
+            </div>
             <div class="row no-gutters">
                 <div class="col-md-4">
                     <div class="card feature-two position-relative bg-transparent pl-4 pr-4 border-0 text-center">
@@ -137,7 +146,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="section-title text-center mb-4 pb-2">
-                        <h3 class="title text-capitalize">Why Choose Us ?</h3>
+                        <h3 class="title text-capitalize">Our Services</h3>
                         <hr>
                         <p class="para-desc mx-auto text-muted mb-0">We are so excited and proud of our business. It's really easy to create a landing page for your awesome business.</p>
                     </div>
@@ -150,12 +159,11 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fas fa-text-height"></i>
+                            <i class="fa fa-text-height"></i>
                         </div>
                         <div class="heading">
                             <h4 class="serv-head mb-3">Customizable Fonts</h4>
                             <p class="text-muted"> Various versions have evolved over the years, sometimes by on purpose injected and the like.</p>
-                            <a href="page_service-detail.html">Read More <i class="fas fa-angle-right ml-2"></i> </a>
                             <span class="serv-number">1.</span>
                         </div>
                     </div>
@@ -165,12 +173,11 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fas fa-eye"></i>
+                            <i class="fa fa-eye"></i>
                         </div>
                         <div class="heading">
                             <h4 class="serv-head mb-3">Retina Ready Graphics</h4>
                             <p class="text-muted"> Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est</p>
-                            <a href="page_service-detail.html">Read More <i class="fas fa-angle-right ml-2"></i> </a>
                             <span class="serv-number">2.</span>
                         </div>
                     </div>
@@ -180,12 +187,11 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fas fa-pen"></i>
+                            <i class="fa fa-pen"></i>
                         </div>
                         <div class="heading">
                             <h4 class="serv-head mb-3">Creative Design</h4>
                             <p class="text-muted"> Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias</p>
-                            <a href="page_service-detail.html">Read More <i class="fas fa-angle-right ml-2"></i> </a>
                             <span class="serv-number">3.</span>
                         </div>
                     </div>
@@ -195,12 +201,11 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fas fa-tablet-alt"></i>
+                            <i class="fa fa-tablet-alt"></i>
                         </div>
                         <div class="heading">
                             <h4 class="serv-head mb-3">Responsive Layouts</h4>
                             <p class="text-muted"> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>
-                            <a href="page_service-detail.html">Read More <i class="fas fa-angle-right ml-2"></i> </a>
                             <span class="serv-number">4.</span>
                         </div>
                     </div>
@@ -210,12 +215,11 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fab fa-digital-ocean"></i>
+                            <i class="fa fa-digital-ocean"></i>
                         </div>
                         <div class="heading">
                             <h4 class="serv-head mb-3">Unique Experience</h4>
                             <p class="text-muted"> Nor again is there anyone who loves or pursues or desires to obtain pain of itself, it is pain</p>
-                            <a href="page_service-detail.html">Read More <i class="fas fa-angle-right ml-2"></i> </a>
                             <span class="serv-number">5.</span>
                         </div>
                     </div>
@@ -225,12 +229,11 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fas fa-desktop"></i>
+                            <i class="fa fa-desktop"></i>
                         </div>
                         <div class="heading">
                             <h4 class="serv-head mb-3">Web Development</h4>
                             <p class="text-muted"> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea</p>
-                            <a href="page_service-detail.html">Read More <i class="fas fa-angle-right ml-2"></i> </a>
                             <span class="serv-number">6.</span>
                         </div>
                     </div>
