@@ -2,7 +2,7 @@
     $hostname = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "godave";
+    $dbname = "godaveplus";
 
     $con = mysqli_connect($hostname, $username, $password, $dbname);
     if(!$con){
@@ -18,10 +18,11 @@
         $msg_date = date('y-m-d'). ' at '.date('h:i:s');
 
         //insert
-        $query = "INSERT INTO messages(firstname, lastname, email, phone, messasge, msg_date)
+        $query = "INSERT INTO messages(firstname, lastname, email, phone, message, msg_date)
         VALUES('{$firstname}', '{$lastname}', '{$email}', '{$phone}', '{$message}', '{$msg_date}')";
         $insert = mysqli_query($con, $query);
         if($insert){
+            //send message on live server
             echo 'success';
         }else{
             echo 'Sorry your message could not send. Try again later';

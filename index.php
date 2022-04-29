@@ -407,7 +407,6 @@
                         <div class="row mb-5">
                             <div class="col-sm-12">
                                 <input type="submit" id="submit" name="send" class="submitBnt btn btn-custom w-100" value="Send Message">
-                                <div id="simple-msg"></div>
                             </div>
                             <!--end col-->
                         </div>
@@ -557,19 +556,23 @@
                 $('.message-error').text(errorMsg);
                 $('#message').css('border', '1px solid #d3d3d3')
             }
-            if($.trim($('#first-name').val()).length == 0 || $.trim($('#last-name').val()).length == 0 || $.trim($('#email').val()).length == 0 || !mail_format.test($('#email').val()) || $.trim($('#phone').val()).length == 0 || $.trim($('#phone').val()).length < 10 ){
+            if($.trim($('#first-name').val()).length == 0 || $.trim($('#last-name').val()).length == 0 || $.trim($('#email').val()).length == 0 || !mail_format.test($('#email').val()) || $.trim($('#phone').val()).length == 0 || $.trim($('#phone').val()).length < 10 || $.trim($('#message').val()).length == 0  ){
                 var errMsg = "Check and Fill all fields correctly";
                 $('.error-text').css('display', 'block');
                 $('.error-text').html(errMsg).fadeOut(8000);
-            }else{
+            }
+            else{
+
                 $.ajax({
                     url: 'sendMessage.php',
                     method: 'POST',
                     data: $('#contact-form').serialize(),
                     success: function(data){
                         if(data === 'success'){
+                            var msg = 'Thank you for your message. We will get back to you soon';
                             $('.success-text').css('display', 'block');
-                            $('.success-text').html(data).fadeOut(8000);
+                            $('.success-text').html(msg).fadeOut(8000);
+                            $('#contact-form')[0].reset();
                         }else{
                             $('.error-text').css('display', 'block');
                             $('.error-text').html(data).fadeOut(8000);
@@ -579,6 +582,7 @@
                         console.log(err)
                     }
                 })
+
             }
         })
     })
