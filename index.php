@@ -211,7 +211,7 @@
     <!-- Services END -->
 
     <!-- Testimonial Start -->
-    <section class="section testi-review bg-testi" data-jarallax='{"speed": 0.5}' style="background: url('images/testi/bg-testi.jpg') fixed center center">
+    <section class="section testi-review bg-testi" data-jarallax='{"speed": 0.5}' style="background: url('images/bg.jpg') fixed center center">
         <div class="page-triangle"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -231,7 +231,7 @@
 
                         <div class="testimonial text-center ml-3 mr-3">
                             <div class="image">
-                                <img src="images/testi/02.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="">
+                                <img src="images/logo/godaveplus-sm.png" class="img-fluid mx-auto d-block rounded-circle" alt="">
                             </div>
                             <div class="content-review">
                                 <p class="review font-italic mt-3">" I'm excited with the honest and professional service deal I got from the Shipping Company. They are experts"</p>
@@ -243,7 +243,7 @@
 
                         <div class="testimonial text-center ml-3 mr-3">
                             <div class="image">
-                                <img src="images/testi/03.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="">
+                                <img src="images/logo/godaveplus-sm.png" class="img-fluid mx-auto d-block rounded-circle" alt="">
                             </div>
                             <div class="content-review">
                                 <p class="review font-italic mt-3">"One of the best shipping company's I have ever come across."</p>
@@ -255,7 +255,7 @@
 
                         <div class="testimonial text-center ml-3 mr-3">
                             <div class="image">
-                                <img src="images/testi/04.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="">
+                                <img src="images/logo/godaveplus-sm.png" class="img-fluid mx-auto d-block rounded-circle" alt="">
                             </div>
                             <div class="content-review">
                                 <p class="review font-italic mt-3">" Excellent shipping company. Very reliable and professional.Will accommodate all reasonable needs."</p>
@@ -350,18 +350,26 @@
             </div>
             <div class="row p-5">
                 <div class="col-lg-6 col-md-6 mt-4 pt-2 shadow">
-                    <form method="post" action="php/contact.php" name="contact-form" id="contact-form">
+                    <form method="POST" name="contact-form" id="contact-form">
+                        <div class="row">
+                            <div style="display: none;" class="col-12 text-center alert alert-danger error-text"></div>
+                        </div>
+                        <div class="row">
+                            <div style="display: none;" class="col-12 text-center alert alert-success success-text"></div>
+                        </div>
                         <div class="row my-4">
                             <div class="col-md-12">
                                 <div class="form-group">
                                     <div class="row">
                                         <div class="col-md-6 col-12">
-                                            <label for="name">First Name</label>  
-                                            <input name="name" id="name" type="text" class="form-control rounded" >
+                                            <label for="first-name">First Name</label>  
+                                            <input name="first-name" id="first-name" type="text" class="form-control rounded" >
+                                            <span class="text-danger first-name-error"></span>
                                         </div>
                                         <div class="col-md-6 col-12">
-                                            <label for="name">Last Name</label> 
-                                            <input name="name" id="lname" type="text" class="form-control rounded">
+                                            <label for="last-name">Last Name</label> 
+                                            <input name="last-name" id="last-name" type="text" class="form-control rounded">
+                                            <span class="text-danger last-name-error"></span>
                                         </div>
                                     </div>
                                 </div>
@@ -370,24 +378,27 @@
 
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <label for="subject">Email</label>
-                                    <input name="subject" id="email" type="email" class="form-control rounded">
+                                    <label for="email">Email</label>
+                                    <input name="email" id="email" type="email" class="form-control rounded">
+                                    <span class="text-danger email-error"></span>
                                 </div>
                             </div>
                             <!--end col-->
 
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <label for="company">Subject</label>
-                                    <input name="subm" id="company" type="text" class="form-control rounded">
+                                    <label for="phone">Phone</label>
+                                    <input name="phone" id="phone" type="text" class="form-control rounded">
+                                    <span class="text-danger phone-error"></span>
                                 </div>
                             </div>
                             <!--end col-->
 
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    <label for="name">Message</label>
-                                    <textarea name="comments" id="comments" rows="4" class="form-control rounded"></textarea>
+                                    <label for="message">Message</label>
+                                    <textarea name="message" id="message" rows="3" class="form-control rounded"></textarea>
+                                    <span class="text-danger message-error"></span>
                                 </div>
                             </div>
                             <!--end col-->
@@ -411,7 +422,7 @@
                             <div class="col-lg-12 p-0">
                                 <div>
                                     <div class="map contact-map">
-                                        <iframe style="width: 100%; height: 65vh; margin-left: 15px" id="gmap_canvas" src="https://maps.google.com/maps?q=dichemso&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                                        <iframe style="width: 100%; height: 65vh; margin-left: 15px" id="gmap_canvas" src="https://maps.google.com/maps?q=offinso&t=&z=13&ie=UTF8&iwloc=&output=embed"  frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -482,3 +493,93 @@
     <!--end section-->
     <!-- Partner End -->
 <?php include_once "include/footer.php" ?>
+<script>
+    $(document).ready(function(){
+        $('#contact-form').on('submit', function(e){
+            e.preventDefault()
+
+            if($.trim($('#first-name').val()).length == 0){
+                var errorMsg = "Enter your first name";
+                $('.first-name-error').text(errorMsg);
+                $('#first-name').css('border', '1px solid #e63946')
+            }else{
+                errorMsg = ' ';
+                $('.first-name-error').text(errorMsg);
+                $('#first-name').css('border', '1px solid #d3d3d3')
+            }
+            if($.trim($('#last-name').val()).length == 0){
+                var errorMsg = "Enter your last name";
+                $('.last-name-error').text(errorMsg);
+                $('#last-name').css('border', '1px solid #e63946')
+            }else{
+                errorMsg = ' ';
+                $('.last-name-error').text(errorMsg);
+                $('#last-name').css('border', '1px solid #d3d3d3')
+            }
+            if($.trim($('#email').val()).length == 0){
+                var errorMsg = "Enter your email address";
+                $('.email-error').text(errorMsg);
+                $('#email').css('border', '1px solid #e63946')
+            }else{
+                var mail_format = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+                if(!mail_format.test($('#email').val())){
+                    errorMsg = 'Invalid Email';
+                    $('.email-error').text(errorMsg);
+                    $('#email').css('border', '1px solid #e63946');
+                }else{
+                    errorMsg = ' ';
+                    $('.email-error').text(errorMsg);
+                    $('#email').css('border', '1px solid #d3d3d3')
+                }
+            }
+
+            if($.trim($('#phone').val()).length == 0){
+                var errorMsg = "Enter your phone number";
+                $('.phone-error').text(errorMsg);
+                $('#phone').css('border', '1px solid #e63946')
+            }else{
+                if($.trim($('#phone').val()).length < 10){
+                    errorMsg = 'Phone Number must be 10 digits';
+                    $('.phone-error').text(errorMsg);
+                    $('#phone').css('border', '1px solid #e63946');
+                }else{
+                    errorMsg = ' ';
+                    $('.phone-error').text(errorMsg);
+                    $('#phone').css('border', '1px solid #d3d3d3')
+                }
+            }
+            if($.trim($('#message').val()).length == 0){
+                var errorMsg = "Enter your message";
+                $('.message-error').text(errorMsg);
+                $('#message').css('border', '1px solid #e63946')
+            }else{
+                errorMsg = ' ';
+                $('.message-error').text(errorMsg);
+                $('#message').css('border', '1px solid #d3d3d3')
+            }
+            if($.trim($('#first-name').val()).length == 0 || $.trim($('#last-name').val()).length == 0 || $.trim($('#email').val()).length == 0 || !mail_format.test($('#email').val()) || $.trim($('#phone').val()).length == 0 || $.trim($('#phone').val()).length < 10 ){
+                var errMsg = "Check and Fill all fields correctly";
+                $('.error-text').css('display', 'block');
+                $('.error-text').html(errMsg).fadeOut(8000);
+            }else{
+                $.ajax({
+                    url: 'sendMessage.php',
+                    method: 'POST',
+                    data: $('#contact-form').serialize(),
+                    success: function(data){
+                        if(data === 'success'){
+                            $('.success-text').css('display', 'block');
+                            $('.success-text').html(data).fadeOut(8000);
+                        }else{
+                            $('.error-text').css('display', 'block');
+                            $('.error-text').html(data).fadeOut(8000);
+                        }
+                    },
+                    error: function(err){
+                        console.log(err)
+                    }
+                })
+            }
+        })
+    })
+</script>
