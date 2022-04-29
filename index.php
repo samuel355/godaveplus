@@ -13,7 +13,7 @@
                         <div class="col-lg-12">
                             <div class="title-heading text-center">
                                 <h1 class="heading font-weight-bold text-capitalize mb-3 text-white">We Import & Export <span class="text-custom"> General Goods</span></h1>
-                                <p class="text-light mx-auto para-desc">Get in touch with us and we’ll provide you with a great Customer Services that suits you the best as far as importation and exportations of goods are concern</p>
+                                <p class="text-light mx-auto para-desc">Get in touch with us and we’ll provide you with a great Customer Services that suits you the best as far as importation and exportations of goods, construction of rods and buildings and all civil engineering works are concern.</p>
                                 <div class="">
                                     <a href="#" class="btn rounded btn-custom mb-2 mr-2">Contact Us</a>
                                     <a href="#" class="btn rounded btn-custom-white mb-2">About Us</a>
@@ -38,13 +38,14 @@
                 <div class="col-md-6">
                     <div class="section-title mb-0">
                         <h3 class="title text-capitalize mb-3">About Godave Plus</h3>
-                        <p class="text-muted">Godave Plus Company Limited is experienced in export and import of general goods, general merchant, roads and building construction.</p>
+                        <p class="text-muted">Godave Plus Company Limited is experienced in export and import of general goods, general merchant, roads and building construction. </p>
+                        <p class="text-muted">We are made up of team of experts who are ready to help clients import and export of their general goods, and construction of roads and their buildings.</p>
                         <p class="text-muted">
                             We offer customers a comprehensive suite of shipping solutions and logistics services. We also seek to help individuals and corporate entities to realize their housing dreams by offering the best of services to them. 
                             
                         </p>
                         <p class="text-muted">We stay on top and produce quality works to every clients. We measure our success by the results we drive for our clients.</p>
-                        <div class="mt-3 center-btn">
+                        <div class="mt-3 center-btn" style="display: none;">
                             <a href="#" class="btn btn-custom">Read more <i class="fa font-weight-bold fa-angle-right ml-2"></i></a>
                         </div>
                     </div>
@@ -164,8 +165,9 @@
                             <i class="fa "></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head font-weight-bold mb-3">Customizable Fonts</h4>
-                            <p class="text-muted"> Various versions have evolved over the years, sometimes by on purpose injected and the like.</p>
+                            <h4 class="serv-head font-weight-bold mb-3">Import and Export of General Goods</h4>
+                            <p class="text-muted"> Godave Plus Company provide the fastest and secure way to export and import of general goods, either byy air or by sea. </p>
+                            <p class="text-muted">Get in touch and lets us assist you.</p>
                             <span class="serv-number">1.</span>
                         </div>
                     </div>
@@ -178,8 +180,8 @@
                             <i class="fa "></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head font-weight-bold mb-3">Retina Ready Graphics</h4>
-                            <p class="text-muted"> Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est</p>
+                            <h4 class="serv-head font-weight-bold mb-3">Roads and Building Construction.</h4>
+                            <p class="text-muted"> Godave Plus Company Limited is set to provide partners and clients with maximized real estate asset value and be the most honest and ethical trade partner of choice in the construction industry.</p>
                             <span class="serv-number">2.</span>
                         </div>
                     </div>
@@ -192,51 +194,10 @@
                             <i class="fa"></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head font-weight-bold mb-3">Creative Design</h4>
-                            <p class="text-muted"> Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias</p>
+                            <h4 class="serv-head font-weight-bold mb-3">Package Delivery</h4>
+                            <p class="text-muted"> You have a package to be shipped internationally as fast as possible?</p>
+                            <p class="text-muted">We ship and deliver any size of any package worldwide. We have experts to help you delivery to your destination, clear customs and as well as transport it from port.</p>
                             <span class="serv-number">3.</span>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                    <div class="services p-4 rounded bg-white shadow">
-                        <div class="icon text-custom">
-                            <i class="fa "></i>
-                        </div>
-                        <div class="heading">
-                            <h4 class="serv-head font-weight-bold mb-3">Responsive Layouts</h4>
-                            <p class="text-muted"> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>
-                            <span class="serv-number">4.</span>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                    <div class="services p-4 rounded bg-white shadow">
-                        <div class="icon text-custom">
-                            <i class="fa "></i>
-                        </div>
-                        <div class="heading">
-                            <h4 class="serv-head font-weight-bold mb-3">Unique Experience</h4>
-                            <p class="text-muted"> Nor again is there anyone who loves or pursues or desires to obtain pain of itself, it is pain</p>
-                            <span class="serv-number">5.</span>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                    <div class="services p-4 rounded bg-white shadow">
-                        <div class="icon text-custom">
-                            <i class="fa "></i>
-                        </div>
-                        <div class="heading">
-                            <h4 class="serv-head font-weight-bold mb-3">Web Development</h4>
-                            <p class="text-muted"> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea</p>
-                            <span class="serv-number">6.</span>
                         </div>
                     </div>
                 </div>
@@ -258,12 +219,12 @@
                     <div id="owl-demo" class="owl-carousel testi-review">
                         <div class="testimonial text-center ml-3 mr-3">
                             <div class="image">
-                                <img src="images/testi/01.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="">
+                                <img src="images/logo/godaveplus-sm.png" class="img-fluid mx-auto d-block rounded-circle" alt="">
                             </div>
                             <div class="content-review">
-                                <p class="review font-italic mt-3">" It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 you need to be sure there isn't years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia "</p>
-                                <h4 class="name mb-1 mt-3 text-light text-uppercase">Bert Woods</h4>
-                                <h6 class="designation text-light font-weight-normal">C.E.O. - Apple</h6>
+                                <p class="review font-italic mt-3">" They are reliable and trust worthy solution to all your shipments"</p>
+                                <h4 class="name mb-1 mt-3 text-light text-uppercase">Osei Kojo </h4>
+                                <h6 class="designation text-light font-weight-normal">~ Client</h6>
                             </div>
                         </div>
                         <!--end content-->
@@ -273,9 +234,9 @@
                                 <img src="images/testi/02.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="">
                             </div>
                             <div class="content-review">
-                                <p class="review font-italic mt-3">" If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything you need to be sure there isn't embarrassing hidden in the middle of text. "</p>
-                                <h4 class="name mb-1 mt-3 text-light text-uppercase">Janyce Sterns</h4>
-                                <h6 class="designation text-light font-weight-normal">M.D. - Idea</h6>
+                                <p class="review font-italic mt-3">" I'm excited with the honest and professional service deal I got from the Shipping Company. They are experts"</p>
+                                <h4 class="name mb-1 mt-3 text-light text-uppercase">Courage Jahmon</h4>
+                                <h6 class="designation text-light font-weight-normal">~ Client</h6>
                             </div>
                         </div>
                         <!--end content-->
@@ -285,9 +246,9 @@
                                 <img src="images/testi/03.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="">
                             </div>
                             <div class="content-review">
-                                <p class="review font-italic mt-3">" All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, you need to be sure there isn't making this the first true generator on the Internet. "</p>
-                                <h4 class="name mb-1 mt-3 text-light text-uppercase">Sheila Townsend</h4>
-                                <h6 class="designation text-light font-weight-normal">Director - Vivo</h6>
+                                <p class="review font-italic mt-3">"One of the best shipping company's I have ever come across."</p>
+                                <h4 class="name mb-1 mt-3 text-light text-uppercase">Samuel Osei Adu</h4>
+                                <h6 class="designation text-light font-weight-normal">~ Client</h6>
                             </div>
                         </div>
                         <!--end content-->
@@ -297,9 +258,9 @@
                                 <img src="images/testi/04.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="">
                             </div>
                             <div class="content-review">
-                                <p class="review font-italic mt-3">" It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, you need to be sure there isn't to generate Lorem Ipsum which looks reasonable. "</p>
+                                <p class="review font-italic mt-3">" Excellent shipping company. Very reliable and professional.Will accommodate all reasonable needs."</p>
                                 <h4 class="name mb-1 mt-3 text-light text-uppercase">Fred Jones</h4>
-                                <h6 class="designation text-light font-weight-normal">Manager - Oppo</h6>
+                                <h6 class="designation text-light font-weight-normal">~ Client</h6>
                             </div>
                         </div>
                         <!--end content-->
@@ -323,7 +284,7 @@
                     <div class="section-title text-center mb-4 pb-2">
                         <h3 class="title text-capitalize">Our Team</h3>
                         <hr>
-                        <p class="para-desc mx-auto text-muted mb-0">These are our experience team members who are willing to put you ahead of your competitors.</p>
+                        <p class="para-desc mx-auto text-muted mb-0">These are our experts who are willing to put all your needs ahead of them</p>
                     </div>
                 </div>
                 <!--end col-->
@@ -331,83 +292,36 @@
             <!--end row-->
 
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
-                    <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded">
+                <div class="col-md-6 col-12 mt-4 pt-2">
+                    <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded shadow">
                         <div class="image pr-4 pl-4">
-                            <img src="images/team/1.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
+                            <img src="images/team/david.jpeg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
                         </div>
                         <div class="team-content text-center">
-                            <h4 class="member-name mb-0"><a href="page_team-detail.html" class="text-dark">Frank Smith</a></h4>
-                            <span class="text-muted">Founder & CEO</span>
-                            <div class="mt-3">
-                                <ul class="list-unstyled social-icon mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
-                    <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded">
-                        <div class="image pr-4 pl-4">
-                            <img src="images/team/2.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
-                        </div>
-                        <div class="team-content text-center">
-                            <h4 class="member-name mb-0"><a href="page_team-detail.html" class="text-dark">Jerry Fisher</a></h4>
-                            <span class="text-muted">Co-Founder</span>
-                            <div class="mt-3">
-                                <ul class="list-unstyled social-icon mb-0">
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
-                    <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded">
-                        <div class="image pr-4 pl-4">
-                            <img src="images/team/3.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
-                        </div>
-                        <div class="team-content text-center">
-                            <h4 class="member-name mb-0"><a href="page_team-detail.html" class="text-dark">Susan Day</a></h4>
+                            <h4 class="member-name mb-0"><a href="page_team-detail.html" class="text-dark">David Owusu Prempeh</a></h4>
                             <span class="text-muted">Managing Director</span>
                             <div class="mt-3">
                                 <ul class="list-unstyled social-icon mb-0">
                                     <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
                                     <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--end col-->
 
-                <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
-                    <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded">
+                <div class="col-md-6 col-12 mt-4 pt-2">
+                    <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded shadow">
                         <div class="image pr-4 pl-4">
-                            <img src="images/team/4.jpg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
+                            <img src="images/team/david.jpeg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
                         </div>
                         <div class="team-content text-center">
-                            <h4 class="member-name mb-0"><a href="page_team-detail.html" class="text-dark">Debra Hickey</a></h4>
-                            <span class="text-muted">Senior Designer</span>
+                            <h4 class="member-name mb-0"><a href="page_team-detail.html" class="text-dark">Godfred Asamoah</a></h4>
+                            <span class="text-muted">Board Chairman</span>
                             <div class="mt-3">
                                 <ul class="list-unstyled social-icon mb-0">
                                     <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" title="facebook"></i></a></li>
                                     <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" title="linkedin"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-dribbble" title="dribbble"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" title="instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -524,8 +438,8 @@
                         </div>
                         <div class="content overflow-hidden d-block">
                             <h4 class="contact-detail-title mb-2">Call Us</h4>
-                            <p class="mb-0 text-muted"><span class="font-weight-bold">Office Phone :</span> +233 387 9879</p>
-                            <p class="mb-0 text-muted"><span class="font-weight-bold">Mobile Phone :</span> +233 876 9809</p>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">Office Phone :</span> +233 54 914 1364</p>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">Mobile Phone :</span> +233 50 952 3239</p>
                         </div>
                     </div>
                 </div>
@@ -538,7 +452,7 @@
                         </div>
                         <div class="content overflow-hidden d-block">
                             <h4 class="contact-detail-title mb-2">Where to find us</h4>
-                            <p class="mb-0 text-muted"><span class="font-weight-bold">Address :</span> Kumasi - Manhyia </p>
+                            <p class="mb-0 text-muted"><span class="font-weight-bold">Address :</span> Offinso North - Kumasi, Ghana </p>
                         </div>
                     </div>
                 </div>
