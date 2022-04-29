@@ -80,10 +80,11 @@
                 <div class="col-md-4">
                     <div class="card feature-two position-relative bg-transparent pl-4 pr-4 border-0 text-center">
                         <div class="icon mb-3">
-                            <i class="fa fa-globe"></i> 
+                            <i class="fa fa-ship"></i>
+                            
                         </div>
-                        <h4 class="feature-head mb-3">Global Partners</h4>
-                        <p class="text-muted mb-0">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>
+                        <h4 class="feature-head mb-3">Reliability</h4>
+                        <p class="text-muted mb-0">We are reliable and trustworthy solution to all you shipments of domestics goods, general merchant and all construction works</p>
                     </div>
                 </div>
                 <!-- end col -->
@@ -91,10 +92,10 @@
                 <div class="col-md-4 center-fe">
                     <div class="card feature-two position-relative bg-transparent pl-4 pr-4 border-0 text-center">
                         <div class="icon mb-3">
-                            <i class="fa fa-ship"></i>
+                            <i class="fa fa-globe"></i> 
                         </div>
-                        <h4 class="feature-head mb-3">Trusted Partners</h4>
-                        <p class="text-muted mb-0">It is a long established fact that a reader will be distracted by the content of at its readable.</p>
+                        <h4 class="feature-head mb-3">Genuine</h4>
+                        <p class="text-muted mb-0">Godave Plus Company limited is incorporated under the laws of republic of Ghana to provide services for corporate and individuals.</p>
                     </div>
                 </div>
                 <!-- end col -->
@@ -102,10 +103,10 @@
                 <div class="col-md-4 left-fe">
                     <div class="card feature-two position-relative bg-transparent pl-4 pr-4 border-0 text-center">
                         <div class="icon mb-3">
-                            <i class="fa fa-group"></i>
+                            <i class="fa fa-shield"></i>
                         </div>
-                        <h4 class="feature-head mb-3">Financial Analysis</h4>
-                        <p class="text-muted mb-0">Many desktop publishing packages and web page editors now use Lorem Ipsum as their text, and.</p>
+                        <h4 class="feature-head mb-3">Flexibility</h4>
+                        <p class="text-muted mb-0">We've laid down easy and accessible ways to import and export all goods in a fast pace.</p>
                     </div>
                 </div>
                 <!-- end col -->
@@ -149,7 +150,7 @@
                     <div class="section-title text-center mb-4 pb-2">
                         <h3 class="title text-capitalize">Our Services</h3>
                         <hr>
-                        <p class="para-desc mx-auto text-muted mb-0">We are so excited and proud of our business. It's really easy to create a landing page for your awesome business.</p>
+                        <p class="para-desc mx-auto text-muted mb-0">We are excited to have you here, Godave Plus provide these services. Browse through and get in touch with us.</p>
                     </div>
                 </div>
                 <!--end col-->
@@ -160,10 +161,10 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fa fa-text-height"></i>
+                            <i class="fa "></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head mb-3">Customizable Fonts</h4>
+                            <h4 class="serv-head font-weight-bold mb-3">Customizable Fonts</h4>
                             <p class="text-muted"> Various versions have evolved over the years, sometimes by on purpose injected and the like.</p>
                             <span class="serv-number">1.</span>
                         </div>
@@ -174,10 +175,10 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fa fa-eye"></i>
+                            <i class="fa "></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head mb-3">Retina Ready Graphics</h4>
+                            <h4 class="serv-head font-weight-bold mb-3">Retina Ready Graphics</h4>
                             <p class="text-muted"> Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est</p>
                             <span class="serv-number">2.</span>
                         </div>
@@ -188,10 +189,10 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fa fa-pen"></i>
+                            <i class="fa"></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head mb-3">Creative Design</h4>
+                            <h4 class="serv-head font-weight-bold mb-3">Creative Design</h4>
                             <p class="text-muted"> Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias</p>
                             <span class="serv-number">3.</span>
                         </div>
@@ -202,10 +203,10 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fa fa-tablet-alt"></i>
+                            <i class="fa "></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head mb-3">Responsive Layouts</h4>
+                            <h4 class="serv-head font-weight-bold mb-3">Responsive Layouts</h4>
                             <p class="text-muted"> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>
                             <span class="serv-number">4.</span>
                         </div>
@@ -216,10 +217,10 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fa fa-digital-ocean"></i>
+                            <i class="fa "></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head mb-3">Unique Experience</h4>
+                            <h4 class="serv-head font-weight-bold mb-3">Unique Experience</h4>
                             <p class="text-muted"> Nor again is there anyone who loves or pursues or desires to obtain pain of itself, it is pain</p>
                             <span class="serv-number">5.</span>
                         </div>
@@ -230,10 +231,10 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="services p-4 rounded bg-white shadow">
                         <div class="icon text-custom">
-                            <i class="fa fa-desktop"></i>
+                            <i class="fa "></i>
                         </div>
                         <div class="heading">
-                            <h4 class="serv-head mb-3">Web Development</h4>
+                            <h4 class="serv-head font-weight-bold mb-3">Web Development</h4>
                             <p class="text-muted"> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea</p>
                             <span class="serv-number">6.</span>
                         </div>
