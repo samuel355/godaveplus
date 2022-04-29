@@ -5,7 +5,7 @@
     <?php include_once "include/header.php" ?>
 
     <!-- Start Home -->
-    <section class="bg-home" style="background-image:url('images/home/bg01.jpg')">
+    <section class="bg-home" style="background-image:url('images/bg.jpg')">
         <div class="home-center">
             <div class="home-desc-center">
                 <div class="container">
@@ -53,7 +53,7 @@
                 <!--end col-->
 
                 <div class="col-md-6 mt-5 mt-sm-0 pt-2 pt-sm-0">
-                    <img src="images/about/01.png" class="img-fluid ml-lg-4" style="margin-top: 1rem" alt="">
+                    <img src="images/webs.png" class="img-fluid ml-lg-4" style="margin-top: 1rem" alt="">
                 </div>
                 <!--end col-->
             </div>
