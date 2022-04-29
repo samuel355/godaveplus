@@ -12,7 +12,7 @@
                     </a>
                     <p class="mt-4 text-white-50">Godave Plus Company Limited is experienced in export and import of general goods, general merchant, roads and building construction. </p>
                     <div class="mt-2 read-more">
-                        <a href="#" class="text-light">Read More <i class="fa fa-angle-right ml-1"></i></a>
+                        <a href="#about-us" class="text-light">Read More <i class="fa fa-angle-right ml-1"></i></a>
                     </div>
                 </div>
                 <!--end col-->
@@ -20,9 +20,10 @@
                 <div class="col-lg-4 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Company</h4>
                     <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> About us</a></li>
-                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Services</a></li>
-                        <li><a href="#" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Team</a></li>
+                        <li><a href="#about-us" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> About us</a></li>
+                        <li><a href="#services" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Services</a></li>
+                        <li><a href="#team" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Team</a></li>
+                        <li><a href="#contact-us" class="text-foot"><i class="fa fa-chevron-right mr-1"></i> Contact Us</a></li>
                     </ul>
                 </div>
                 <!--end col-->

@@ -28,10 +28,11 @@
             <div id="navigation">
                 <!-- Navigation Menu-->
                 <ul class="navigation-menu">
-                    <li class="has-submenu font-weight-bold"><a href="">Home</a></li>
-                    <li class="has-submenu font-weight-bold"><a href="">About Us</a></li>
-                    <li class="has-submenu font-weight-bold"><a href="">Services</a></li>
-                    <li class="has-submenu font-weight-bold"><a href="">Contact us</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="/">Home</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="#about-us">About Us</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="#services">Services</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="#team">Our Team</a></li>
+                    <li class="has-submenu font-weight-bold"><a href="#contact-us">Contact us</a></li>
                 </ul>
                 <!-- End navigation menu-->
             </div>

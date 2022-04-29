@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Roboto&display=swap");
+html {
+    scroll-behavior: smooth;
+}
+
 .bg-primary {
     background-color: #4782d3 !important;
 }

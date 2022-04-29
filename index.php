@@ -15,8 +15,8 @@
                                 <h1 class="heading font-weight-bold text-capitalize mb-3 text-white">We Import & Export <span class="text-custom"> General Goods</span></h1>
                                 <p class="text-light mx-auto para-desc">Get in touch with us and we’ll provide you with a great Customer Services that suits you the best as far as importation and exportations of goods, construction of rods and buildings and all civil engineering works are concern.</p>
                                 <div class="">
-                                    <a href="#" class="btn rounded btn-custom mb-2 mr-2">Contact Us</a>
-                                    <a href="#" class="btn rounded btn-custom-white mb-2">About Us</a>
+                                    <a href="#contact-us" class="btn rounded btn-custom mb-2 mr-2">Contact Us</a>
+                                    <a href="#about-us" class="btn rounded btn-custom-white mb-2">About Us</a>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@
     <!-- End Home -->
 
     <!-- About Start -->
-    <section class="section bg-light">
+    <section class="section bg-light" id="about-us">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
@@ -144,7 +144,7 @@
     <!-- End Cta -->
 
     <!-- Services START -->
-    <section class="section">
+    <section class="section" id="services">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12">
@@ -276,7 +276,7 @@
     <!-- Testimonial End -->
 
     <!-- Team START -->
-    <section class="section bg-light">
+    <section class="section bg-light" id="team">
         <div class="page-triangle"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -337,7 +337,7 @@
     <!-- Team END -->
 
     <!-- contact START -->
-    <section class="section">
+    <section class="section" id="contact-us">
         <div class="container">
             <div class="row">
                 <div class="col-12">
