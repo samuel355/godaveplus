@@ -40,8 +40,10 @@
                         <h3 class="title text-capitalize mb-3">About Godave Plus</h3>
                         <p class="text-muted">Godave Plus Company Limited is experienced in export and import of general goods, general merchant, roads and building construction.</p>
                         <p class="text-muted">
-                            ...
+                            We offer customers a comprehensive suite of shipping solutions and logistics services. We also seek to help individuals and corporate entities to realize their housing dreams by offering the best of services to them. 
+                            
                         </p>
+                        <p class="text-muted">We stay on top and produce quality works to every clients. We measure our success by the results we drive for our clients.</p>
                         <div class="mt-3 center-btn">
                             <a href="#" class="btn btn-custom">Read more <i class="fa font-weight-bold fa-angle-right ml-2"></i></a>
                         </div>
