@@ -292,7 +292,10 @@
             <!--end row-->
 
             <div class="row">
-                <div class="col-md-6 col-12 mt-4 pt-2">
+                <div class="col-md-3 col-12 mt-4 pt-2">
+                    
+                </div>
+                <div class="col-md-3 col-12 mt-4 pt-2">
                     <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded shadow">
                         <div class="image pr-4 pl-4">
                             <img src="images/team/david.jpeg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
@@ -310,7 +313,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-12 mt-4 pt-2">
+                <div class="col-md-3 col-12 mt-4 pt-2">
                     <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded shadow">
                         <div class="image pr-4 pl-4">
                             <img src="images/team/david.jpeg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
@@ -326,6 +329,10 @@
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class="col-md-3 col-12 mt-4 pt-2">
+                    
                 </div>
                 <!--end col-->
             </div>
