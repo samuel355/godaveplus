@@ -1,10 +1,3 @@
-/* Theme Name: Bizzcane - Business Templates
-   Author: Shreethemes
-   Version: 1.0.0
-   Created: September 2019
-   File Description:Main JS file of the template
-*/
-
 (function($) {
     'use strict';
     // Navbat Toggle
