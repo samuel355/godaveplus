@@ -4,10 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                    <a href="index.html" class="logo text-white">
-                        <div class="icon d-inline-block">
-                            <img src="images/icon-logo.png" alt="missing_logo" height="20">
-                        </div>
+                    <a href="index.php" class="logo text-white">
                         Godave Plus
                     </a>
                     <p class="mt-4 text-white-50">Godave Plus Company Limited is experienced in export and import of general goods, general merchant, roads and building construction. </p>

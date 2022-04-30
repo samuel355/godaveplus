@@ -356,7 +356,7 @@
                 </div>
             </div>
             <div class="row p-5">
-                <div class="col-lg-6 col-md-6 mt-4 pt-2 shadow">
+                <div class="col-md-6 mt-4 pt-2 shadow">
                     <form method="POST" name="contact-form" id="contact-form">
                         <div class="row">
                             <div style="display: none;" class="col-12 text-center alert alert-danger error-text"></div>
@@ -422,7 +422,7 @@
                 </div>
                 <!--end col-->
 
-                <div class="col-lg-6 col-md-6">
+                <div class="col-md-6">
                     <div class="mt-3 shadow">
                         <div class="row">
                             <div class="col-lg-12 p-0">
