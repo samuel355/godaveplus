@@ -316,7 +316,7 @@
                 <div class="col-md-3 col-12 mt-4 pt-2">
                     <div class="team-member position-relative overflow-hidden p-3 pt-4 pb-4 rounded shadow">
                         <div class="image pr-4 pl-4">
-                            <img src="images/team/david.jpeg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
+                            <img src="images/team/partner.jpeg" class="img-fluid mx-auto d-block rounded-circle" alt="team-img">
                         </div>
                         <div class="team-content text-center">
                             <h4 class="member-name mb-0"><a href="page_team-detail.html" class="text-dark">Godfred Asamoah</a></h4>
